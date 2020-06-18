@@ -1,0 +1,33 @@
+﻿  MainDivorce.cpp
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(17,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(30,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(67,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(106,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(117,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(130,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(131,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(133,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(157,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(169,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(178,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(180,41): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(201,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(208,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(218,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(227,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(229,40): warning C4244: аргумент: преобразование "_Ty" в "const unsigned int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(297,26): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(309,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(311,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\MainDivorce.cpp(66,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\MainDivorce.cpp(94,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\MVS\курсовая\Main\MainDivorce\Divorce.h(336): warning C4715: prune: значение возвращается не при всех путях выполнения
+  MainDivorce.vcxproj -> C:\Users\User\Documents\MVS\курсовая\Main\Debug\MainDivorce.exe
